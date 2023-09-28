@@ -631,5 +631,6 @@ SLAVE:
    26  amazon-linux-extras install java-openjkd11 -y
    27  amazon-linux-extras install java-openjdk11 -y
    28  history
+   29.history
 
 
