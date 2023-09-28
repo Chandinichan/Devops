@@ -66,3 +66,4 @@ MAVEN VS ANT:
    15  mvn package
    16  mvn install
    17  mvn clean package
+maven is used in jenkins to build and test it is necessary to learn
